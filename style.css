@@ -259,7 +259,7 @@ img {
     color: red; 
 }
 
-@media only screen and (min-width: 490px) and (max-width: 768px) {
+@media screen and (min-width: 490px) and (max-width: 768px) {
     nav {
         margin: 0 40px;
     }
@@ -283,7 +283,7 @@ img {
    } 
 }
 
-@media only screen and (min-width:300px) and (max-width: 425px) {
+@media screen and (min-width:300px) and (max-width: 489px) {
     /* nav {
         margin: 0 40px;
     } */
